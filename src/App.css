@@ -7,9 +7,13 @@
   height: 80px;
 }
 
+.openWeather-logo {
+  width: 220px;
+}
+
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background-color: #34495E;
+  height: 170px;
   padding: 20px;
   color: white;
 }
